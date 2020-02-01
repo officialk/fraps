@@ -3,8 +3,8 @@
   "name": "Fraps",
   "start_url": "/",
   "background_color": "#3367D6",
-  "display": "browser",
-  "scope": "/www",
+  "display": "minimal-ui",
+  "scope": "/",
   "theme_color": "#3367D6",
   "orientation": "portrait"
 }
