@@ -2,9 +2,9 @@
   "name": "v-100",
   "version": "1.0.0",
   "description": "",
-  "main": "src/index.js",
+  "main": "src/node.js",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/node.js"
   },
   "dependencies": {
     "express": "4.17.1"

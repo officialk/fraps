@@ -1,0 +1,13 @@
+::root {
+  --mainColor: blue !important;
+  --textColor: black !important;
+}
+.theme {
+  background: var(--mainColor);
+  color: var(--textColor);
+}
+
+.theme2 {
+  color: var(--mainColor);
+  background: var(--textColor);
+}
