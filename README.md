@@ -1,2 +1,0 @@
-# fraps
-Created with CodeSandbox
